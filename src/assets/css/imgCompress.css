@@ -1,0 +1,56 @@
+/* General Styles */
+.preview-img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-top: 15px;
+}
+
+.image-card {
+  margin-bottom: 30px;
+}
+
+.upload-section,
+.compressed-section {
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+}
+
+h5 {
+  color: #333;
+  font-size: 1.2rem;
+}
+
+button {
+  font-size: 1rem;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.alert {
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+.spinner-border {
+  margin-right: 10px;
+}
+
+.card {
+  margin-bottom: 20px;
+}
+
+.compressed-section {
+  margin-top: 20px;
+}
+
+@media (max-width: 768px) {
+  .image-card {
+    text-align: center;
+  }
+
+  .preview-img {
+    width: 100%;
+  }
+}

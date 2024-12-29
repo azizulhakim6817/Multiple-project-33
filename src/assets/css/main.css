@@ -1,0 +1,15 @@
+/* In your CSS file .........................*/
+.nav-link.active {
+  color: #1a9bf1 !important;
+  font-weight: bold !important;
+}
+
+/* image to PDF component.....Button............................ */
+.btnButton:hover {
+  background-color: rgb(5, 5, 170) !important;
+  font-size: large !important;
+}
+
+body{
+  background-color: #f1f2f3 !important;
+}
